@@ -1,26 +1,26 @@
 {
-    "name": "nnnick/chartjs",
-    "type": "library",
-    "description": "Simple HTML5 charts using the canvas element.",
-    "keywords": [
-        "chart",
-        "js"
-    ],
-    "homepage": "http://www.chartjs.org/",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "NICK DOWNIE",
-            "email": "hello@nickdownie.com"
-        }
-    ],
-    "require": {
-        "php": ">=5.3.3"
-    },
-    "minimum-stability": "stable",
-    "extra": {
-        "branch-alias": {
-            "release/2.0": "v2.0-dev"
-        }
+  "name": "almasaeed2010/adminlte",
+  "description": "AdminLTE - admin control panel and dashboard that's based on Bootstrap 3",
+  "homepage": "http://almsaeedstudio.com/",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "Abdullah Almsaeed",
+      "email": "support@almsaeedstudio.com"
     }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/almasaeed2010/AdminLTE/issues"
+  }
 }
